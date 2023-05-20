@@ -10,11 +10,13 @@
 
 
 
+
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/CYCLOP5/Calculator-Tean2">
-    <img src="images/icon.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn2.iconfinder.com/data/icons/ios7-inspired-mac-icon-set/512/Calculator_512.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center"Calculator for Team 2</h3>
@@ -56,7 +58,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#Team">Team</a></li>
+    <li><a href="#team">Team</a></li>
   </ol>
 </details>
 
@@ -65,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is the Group Project to make a Calculator in Python for CS 235A.
+Group Project to make a Calculator in Python for CS 235A Github HSW.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
