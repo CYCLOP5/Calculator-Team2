@@ -111,6 +111,10 @@ To get a local copy up and running follow these steps.
    ```sh
    git clone https://github.com/CYCLOP5/Calculator-Team2.git
    ```
+2. Get into the directory
+    ```sh
+    cd Calculator-Team2
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,9 +132,9 @@ TBA
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Basic Addition, Subtraction
-- [ ] Basic Multiplaction, Division
-- [ ] Main file to import code from other files.
+- [x] Basic Addition, Division
+- [ ] Basic Multiplaction, Subtraction
+- [x] Main file to import code from other files.
 
 See the [open issues](https://github.com/CYCLOP5/Calculator-Team2/issues) for a full list of proposed features (and known issues).
 
