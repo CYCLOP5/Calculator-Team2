@@ -38,6 +38,9 @@ while True:
             print(num1, "*", num2, "=", Multiplication.multiply(num1, num2))
 
         elif choice == '4':
+            if num2 == '0' :
+                print("Cannot divide by 0")
+                continue
             print(num1, "/", num2, "=", Division.divide(num1, num2))
 
         elif choice == '5':
