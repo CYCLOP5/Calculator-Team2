@@ -123,7 +123,9 @@ To get a local copy up and running follow these steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-TBA
+1. Go to [releases].
+2. Download the latest executable file in the latest release.
+3. Run the executable.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,10 +135,10 @@ TBA
 ## Roadmap
 
 - [x] Basic Addition, Division. (v0.2)
-- [x] Power as a function.
+- [x] Power as a function. (v0.4)
 - [x] Basic Multiplaction, Subtraction. (v0.3)
 - [x] Main file to import code from other files. 
-- [x] Executable to run on any system. 
+- [x] Executable to run on any system. (v1.0)
 
 See the [open issues](https://github.com/CYCLOP5/Calculator-Team2/issues) for a full list of proposed features (and known issues).
 
@@ -198,3 +200,4 @@ Project Link: [https://github.com/CYCLOP5/Calculator-Team2](https://github.com/C
 [product-screenshot]: images/screenshot.png
 [Python.com]: https://www.python.org/static/img/python-logo.png
 [Python-url]: https://www.python.org/
+[releases]: https://github.com/CYCLOP5/Calculator-Team2/releases
