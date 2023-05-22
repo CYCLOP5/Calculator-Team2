@@ -135,9 +135,10 @@ To get a local copy up and running follow these steps.
 ## Roadmap
 
 - [x] Basic Addition, Division. (v0.2)
-- [x] Power as a function. (v0.4)
+- [x] Power as a function. (v1.2)
+- [x] Roots as a function. (v0.4)
 - [x] Basic Multiplaction, Subtraction. (v0.3)
-- [x] Main file to import code from other files. 
+- [x] Main file to import code from other files.  (v1.3)
 - [x] Executable to run on any system. (v1.0)
 
 See the [open issues](https://github.com/CYCLOP5/Calculator-Team2/issues) for a full list of proposed features (and known issues).
