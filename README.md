@@ -150,7 +150,7 @@ See the [open issues](https://github.com/CYCLOP5/Calculator-Team2/issues) for a 
 ## Contributing
 
 
-1. Fork the Project
+1. Fork the Project/Clone the Project
 2. Create your Feature Branch (`git checkout -b feature/CoolFeature`)
 3. Commit your Changes (`git commit -m 'Add some Cool Feature'`)
 4. Push to the Branch (`git push origin feature/CoolFeature`)
