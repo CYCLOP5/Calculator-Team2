@@ -137,8 +137,8 @@ To get a local copy up and running follow these steps.
 - [x] Basic Addition, Division. (v0.2)
 - [x] Roots and power as a function. (v1.2)
 - [x] Basic Multiplaction, Subtraction. (v0.3)
-- [x] Main file to import code from other files.  (v1.3)
-- [x] Executable to run on any system. (v1.0)
+- [x] Main file to import code from other files.  (v1.0)
+- [x] Executable to run on any system. (v1.3)
 
 See the [open issues](https://github.com/CYCLOP5/Calculator-Team2/issues) for a full list of proposed features (and known issues).
 
@@ -172,7 +172,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- Team -->
 ## Team
 
-* Varun Jhaveri
+* Varun Jhaveri , Mumbai.
 * Sai Kesav Vyas S ,Tamil Nadu.
 * Anvi Jawrewal
 * Utkarsh Singh , Uttar Pradesh.
