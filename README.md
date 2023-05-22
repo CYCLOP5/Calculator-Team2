@@ -134,9 +134,9 @@ TBA
 
 - [x] Basic Addition, Division. (v0.2)
 - [x] Power as a function.
-- [ ] Basic Multiplaction, Subtraction. (v0.3)
+- [x] Basic Multiplaction, Subtraction. (v0.3)
 - [x] Main file to import code from other files. 
-- [ ] Executable to run on any system. 
+- [x] Executable to run on any system. 
 
 See the [open issues](https://github.com/CYCLOP5/Calculator-Team2/issues) for a full list of proposed features (and known issues).
 
