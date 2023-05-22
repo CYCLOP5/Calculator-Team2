@@ -176,6 +176,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * Varun Jhaveri
 * Sai Kesav Vyas S
 * Anvi Jawrewal
+* Utkarsh Singh
 
 Project Link: [https://github.com/CYCLOP5/Calculator-Team2](https://github.com/CYCLOP5//Calculator-Team2)
 
