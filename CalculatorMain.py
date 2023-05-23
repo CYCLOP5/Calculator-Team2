@@ -20,33 +20,62 @@ while True:
 
     # check if choice is one of the four options
     if choice in ('1', '2', '3', '4', '5','6'):
-        print("If roots is chosen the second number is the nth root. ")
-        try:
-            num1 = float(input("Enter first number: "))
-            num2 = float(input("Enter second number: "))
-        except ValueError:
-            print("Invalid input. Please enter a number.")
-            continue
+        
+        
 
         if choice == '1':
+            try:
+                num1 = float(input("Enter first number: "))
+                num2 = float(input("Enter second number: "))
+            except ValueError:
+                 print("Invalid input. Please enter a number.")
+                 continue 
             print(num1, "+", num2, "=", Addition.add(num1, num2))
 
         elif choice == '2':
+            try:
+                num1 = float(input("Enter first number: "))
+                num2 = float(input("Enter second number: "))
+            except ValueError:
+                 print("Invalid input. Please enter a number.")
+                 continue
             print(num1, "-", num2, "=", Subtraction.subtract(num1, num2))
 
         elif choice == '3':
+            try:
+                num1 = float(input("Enter first number: "))
+                num2 = float(input("Enter second number: "))
+            except ValueError:
+                 print("Invalid input. Please enter a number.")
+                 continue
             print(num1, "*", num2, "=", Multiplication.multiply(num1, num2))
 
         elif choice == '4':
-            if num2 == '0' :
-                print("Cannot divide by 0")
-                continue
+            try:
+                num1 = float(input("Enter first number: "))
+                num2 = float(input("Enter second number: "))
+            except ValueError:
+                 print("Invalid input. Please enter a number.")
+                 continue
             print(num1, "/", num2, "=", Division.divide(num1, num2))
 
         elif choice == '5':
+            try:
+                num1 = float(input("Enter first number: "))
+                num2 = float(input("Enter second number: "))
+            except ValueError:
+                 print("Invalid input. Please enter a number.")
+                 continue
             print(num1, "^", num2, "=", Power.Power(num1, num2))
 
         elif choice == '6':
+            print("Since roots is chosen the second number is the nth root. ")
+            try:
+                num1 = float(input("Enter first number: "))
+                num2 = float(input("Enter second number: "))
+            except ValueError:
+                 print("Invalid input. Please enter a number.")
+                 continue
             print(num2, "√", num1, "=", RootsOfNum.rootsofnum(num1, num2))
         
         # check if user wants another calculation
