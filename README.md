@@ -24,7 +24,7 @@
   <p align="center">
     Calculator (Python) for Team 2
     <br />
-    <a href="https://github.com/CYCLOP5/Calculator-Team2"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/CYCLOP5/Calculator-Team2/wiki/Information-About-The-Project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
  <!--    <a href="https://github.com/CYCLOP5/Calculator-Team2">View Demo</a> -->
